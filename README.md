@@ -1,4 +1,5 @@
-## Hi there 👋
+##  rag-for-educational-systems
+An AI-powered educational-systems using Retrieval-Augmented Generation (RAG) to provide accurate, context-aware answers from educational resources.
 
 <!--
 **Saanvi-m10/Saanvi-m10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
