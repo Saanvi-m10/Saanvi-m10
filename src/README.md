@@ -1,5 +1,4 @@
-This Folder contains source code for data preprocessing,training and inference.
-# RAG for Educational Systems - Source Code
+ # RAG for Educational Systems - Source Code
 
 ## Files
 - `app.py` - Flask backend server with Gemini AI
