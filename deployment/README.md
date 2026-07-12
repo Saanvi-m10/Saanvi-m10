@@ -15,7 +15,7 @@
 ## Deployment Steps
 
 ### Step 1 - Clone Repository
-git clone https://github.com/Samiksha-n/rag-for-educational-systems.git
+git clone   https://github.com/Saanvi-m10/Saanvi-m10
 cd rag-for-educational-systems/src
 
 ### Step 2 - Install Dependencies
